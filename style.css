@@ -14,6 +14,8 @@ h1{
     border: 1px solid black;
     cursor: pointer;
     font-size: 18px;
+    text-decoration: none;
+    color: black;
 }
 #optionbtns,
 #welcomep{
