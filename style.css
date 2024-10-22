@@ -48,6 +48,7 @@ h1{
     margin-bottom: 10px;
 }
 
+
 @media only screen and (max-width: 767px){
     h1{
         width: 100vw;
