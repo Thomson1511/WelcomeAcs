@@ -7,18 +7,7 @@ h1{
     width: 350px;
     text-align: center;
 }
-#starter{
-    border-radius: 50px;
-    width: 200px;
-    height: 50px;
-    border: 1px solid black;
-    cursor: pointer;
-    font-size: 18px;
-    text-decoration: none;
-    color: black;
-}
-#optionbtns,
-#welcomep{
+#optionbtns{
     width: 100vw;
     height: 100vh;
     justify-content: center;
@@ -27,9 +16,6 @@ h1{
 }
 #optionbtns,
 #back{
-    display: none;
-}
-#welcomep{
     display: flex;
 }
 .optionbtn{
@@ -53,12 +39,6 @@ h1{
     h1{
         width: 100vw;
         font-size: 30px;
-    }
-    #starter{
-        border-radius: 50px;
-        width: 80vw;
-        height: 10vh;
-        font-size: 18px;
     }
     .optionbtn{
         width: 40vw;
